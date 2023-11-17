@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 ### 經歷
 🦅 輔大統計資訊系
 
-###信箱
+### 信箱
 📫 410146054@m365.fju.edu.tw
