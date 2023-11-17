@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 ### 專長
-🐯 I’m currently learning deep learning
+🐯 I’m currently learning deep learning\
 🦁 統計
 
 ### 經歷
